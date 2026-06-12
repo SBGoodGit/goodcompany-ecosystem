@@ -106,7 +106,7 @@ The goal is to reach a point where the architecture is solid enough to build fro
 
 ## Get in touch
 
-- X / Twitter: **@[your handle]**
+- X / Twitter: @the_voc_
 - GitHub Discussions: open a thread in this repo
 
 *This document will evolve as the conversation does.*
